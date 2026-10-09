@@ -1,4 +1,4 @@
-# Biblioteka
+# Bibliotekaeloelo
 
 Projekt ćwiczeniowy rozwijany podczas laboratoriów z przedmiotu
 **Projektowanie aplikacji webowych**.
